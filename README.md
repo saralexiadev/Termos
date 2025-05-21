@@ -1,1 +1,54 @@
 # termos
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>Política de Privacidade - VetMeet</title>  
+</head>  
+<body>  
+    <h1>Política de Privacidade do VetMeet</h1>  
+    <p><em>Última atualização: 20-05-2025</em></p>  
+
+    <h2>1. Dados Coletados</h2>  
+    <p>Armazenamos apenas os dados fornecidos voluntariamente pelos profissionais cadastrados:</p>  
+    <ul>  
+        <li>Foto de perfil;</li>  
+        <li>Número de WhatsApp;</li>  
+        <li>Perfil do Instagram;</li>  
+        <li>Cidade e estado de atuação;</li>  
+        <li>Breve descrição dos serviços oferecidos.</li>  
+    </ul>  
+
+    <h2>2. Finalidade do Uso</h2>  
+    <p>As informações são utilizadas exclusivamente para:</p>  
+    <ul>  
+        <li>Divulgar os profissionais no app;</li>  
+        <li>Permitir que usuários entrem em contato diretamente via redes sociais.</li>  
+    </ul>  
+
+    <h2>3. Armazenamento e Segurança</h2>  
+    <p>Os dados são guardados em uma planilha eletrônica protegida por:</p>  
+    <ul>  
+        <li>Acesso restrito ao responsável pelo app;</li>  
+        <li>Senha de alta complexidade;</li>  
+        <li>Criptografia durante o acesso.</li>  
+    </ul>  
+
+    <h2>4. Compartilhamento com Terceiros</h2>  
+    <p>Não vendemos, alugamos ou compartilhamos dados com terceiros.</p>  
+
+    <h2>5. Direitos dos Profissionais</h2>  
+    <p>Você pode:</p>  
+    <ul>  
+        <li>Solicitar a exclusão dos seus dados via e-mail: saralexia1998@gmail.com;</li>  
+        <li>Atualizar informações a qualquer momento através do app.</li>  
+    </ul>  
+
+    <h2>6. Redes Sociais Externas</h2>  
+    <p>Ao clicar em links do WhatsApp ou Instagram, você será redirecionado a plataformas externas. Não controlamos suas políticas de privacidade.</p>  
+
+    <h2>7. Alterações nesta Política</h2>  
+    <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
+
+    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
+</body>  
+</html>  
