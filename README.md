@@ -1,5 +1,4 @@
-# termos
-<>  
+
 <html>  
 <head>  
     <title>Política de Privacidade - VetMeet</title>  
@@ -46,7 +45,6 @@
     <h2>6. Redes Sociais Externas</h2>  
     <p>Ao clicar em links do WhatsApp ou Instagram, você será redirecionado a plataformas externas. Não controlamos suas políticas de privacidade.</p>  
 
-<>  
 <html>  
 <head>  
     <title>Termos de Uso - [Nome do App]</title>  
