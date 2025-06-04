@@ -93,6 +93,14 @@
     <p>Estes Termos são regidos pelas leis do [Brasil]. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
 
     <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
+<!-- politica-anti-abuso.html -->
+<h2>Compromisso com a Proteção Infantil</h2>
+<ol>
+  <li>Proibição absoluta de conteúdo sexual envolvendo menores</li>
+  <li>Remoção imediata de conteúdo sinalizado (máx. 24h)</li>
+  <li>Colaboração com autoridades: denunciamos à Interpol</li>
+  <li>Ferramentas de detecção: PhotoDNA + AI moderadora</li>
+</ol>
 </body>  
 </html>  
 
