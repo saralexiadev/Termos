@@ -44,6 +44,10 @@
 
     <h2>6. Redes Sociais Externas</h2>  
     <p>Ao clicar em links do WhatsApp ou Instagram, você será redirecionado a plataformas externas. Não controlamos suas políticas de privacidade.</p>  
+    <h2>7. Alterações nesta Política</h2>  
+    <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
+
+    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
 
 <html>  
 <head>  
@@ -91,10 +95,7 @@
 
     <h2>7. Lei Aplicável</h2>  
     <p>Estes Termos são regidos pelas leis do Brasil. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
-    <h2>8. Alterações nesta Política</h2>  
-    <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
-
-    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
+    
     
 </body>  
 
