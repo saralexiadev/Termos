@@ -92,14 +92,21 @@
     <h2>7. Lei Aplicável</h2>  
     <p>Estes Termos são regidos pelas leis do [Brasil]. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
 
-    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
-<!-- politica-anti-abuso.html -->
+<title>Padrões deSegurançaInfantil - VetMeet</title>  
+</head>  
+<body>  
+    <h1>Padrões de Segurança Infantil VetMeet</h1>  
+    <p><em>Última atualização: 03-06-2025</em></p>  
+</head>  
+<body>  
 <h2>Compromisso com a Proteção Infantil</h2>
 <ol>
   <li>Proibição absoluta de conteúdo sexual envolvendo menores</li>
   <li>Remoção imediata de conteúdo sinalizado (máx. 24h)</li>
   <li>Colaboração com autoridades: denunciamos à Interpol</li>
   <li>Ferramentas de detecção: PhotoDNA + AI moderadora</li>
+    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
+<!-- politica-anti-abuso.html -->
 </ol>
 </body>  
 </html>  
