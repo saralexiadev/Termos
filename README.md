@@ -90,7 +90,7 @@
     <p>Podemos atualizar estes Termos a qualquer momento. Mudanças serão informadas no app.</p>  
 
     <h2>7. Lei Aplicável</h2>  
-    <p>Estes Termos são regidos pelas leis do [Brasil]. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
+    <p>Estes Termos são regidos pelas leis do Brasil. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
     <h2>8. Alterações nesta Política</h2>  
     <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
 
