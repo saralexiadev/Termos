@@ -91,6 +91,12 @@
 
     <h2>7. Lei Aplicável</h2>  
     <p>Estes Termos são regidos pelas leis do [Brasil]. Disputas serão resolvidas em Belo Horizonte - Minas Gerais.</p>  
+    <h2>8. Alterações nesta Política</h2>  
+    <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
+
+    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
+    
+</body>  
 
 <title>Padrões de Segurança Infantil - VetMeet</title>  
 
@@ -108,12 +114,5 @@
     <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
 <!-- politica-anti-abuso.html -->
 </ol>
-</body>  
-
-
-    <h2>7. Alterações nesta Política</h2>  
-    <p>Atualizações serão comunicadas no app. O uso continuado implica aceitação das mudanças.</p>  
-
-    <p><strong>Contato:</strong> saralexia1998@gmail.com</p>  
 </body>  
 
